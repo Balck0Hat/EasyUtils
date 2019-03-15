@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Toast.makeText(this, "${MyUtils.Minus(1, 2)}", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "${MyUtils.minus(1, 2)}", Toast.LENGTH_LONG).show()
 
     }
 }
