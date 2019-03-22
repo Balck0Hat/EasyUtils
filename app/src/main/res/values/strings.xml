@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EasyUtils</string>
+    <string name="custom_toast">custom toast</string>
 </resources>
